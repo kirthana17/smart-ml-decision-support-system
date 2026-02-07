@@ -1,4 +1,23 @@
-## Project Status
-Week 1 – Environment and version control setup completed.
-## Repository Status
-Code successfully pushed to GitHub.
+# Smart ML Decision Support System
+
+## Project Overview
+An end-to-end machine learning project to predict customer churn
+and explain model predictions.
+
+## Problem Statement
+Predict whether a customer is likely to churn based on historical data
+and provide reasons for the prediction.
+
+## Tech Stack
+- Python
+- NumPy, Pandas
+- Scikit-learn
+- Git & GitHub
+
+## Project Structure
+- src/ : source code
+- data/ : dataset
+- requirements.txt : dependencies
+
+## Current Status
+Week 1 completed: environment setup, Git, GitHub, repo hygiene.
