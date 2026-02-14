@@ -21,4 +21,5 @@ and provide reasons for the prediction.
 
 ## Current Status
 Week 1 completed: environment setup, Git, GitHub, repo hygiene.
+
 Week 2 completed: data cleaning, EDA, preprocessing, feature-target split (X, y), one-hot encoding, and 80-20 train-test split (random_state=42).
